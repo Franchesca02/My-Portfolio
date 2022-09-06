@@ -30,7 +30,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://www.fyngramhealth.com/">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Demo
                   </button>
                 </a>
@@ -49,7 +49,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://enrolledagent.com/">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Demo
                   </button>
                 </a>
@@ -68,12 +68,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://fitness-app-by-ify.netlify.app/">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Demo
                   </button>
                 </a>
                 <a href="https://github.com/Franchesca02/Fitness-App">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Code
                   </button>
                 </a>
@@ -92,12 +92,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://food-recipes-with-ify.netlify.app/">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Demo
                   </button>
                 </a>
                 <a href="https://github.com/Franchesca02/Food-Recipe-App">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Code
                   </button>
                 </a>
@@ -116,12 +116,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://franchesca-to-do-app.netlify.app/">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Demo
                   </button>
                 </a>
                 <a href="https://github.com/Franchesca02/To-Do-App">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Code
                   </button>
                 </a>
@@ -140,12 +140,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://franchesca02.github.io/Portfolio/">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Demo
                   </button>
                 </a>
                 <a href="https://github.com/Franchesca02/Portfolio">
-                  <button className="text rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
                     View Code
                   </button>
                 </a>
