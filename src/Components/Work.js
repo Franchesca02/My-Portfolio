@@ -1,5 +1,6 @@
 import React from "react";
 import Agent from "../Assets/agent.png";
+import Card from "../Assets/card.png";
 import Health from "../Assets/health.png";
 import Food from "../Assets/food.png";
 import Todo from "../Assets/todo.png";
@@ -21,6 +22,26 @@ const Work = () => {
         {/* container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* grid item */}
+
+          <div
+            style={{ backgroundImage: `url(${Card})` }}
+            className="shadow-lg shadow-[#040c16] group round-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* hover effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Next JS Application
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://www.myeventpod.com/">
+                  <button className="rounded-lg px-2 py-2 m-2 bg-[#0a192f] text-yellow-600 font-bold text-lg">
+                    View Demo
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+
           <div
             style={{ backgroundImage: `url(${Health})` }}
             className="shadow-lg shadow-[#040c16] group round-md flex justify-center items-center mx-auto content-div"
@@ -202,7 +223,6 @@ const Work = () => {
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </div>

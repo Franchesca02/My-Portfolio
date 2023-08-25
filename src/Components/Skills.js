@@ -6,6 +6,7 @@ import Javascript from "../Assets/javascript.png";
 import Bootstrap from "../Assets/Bootstrap.png";
 import Reactjs from "../Assets/react.png";
 import Next from "../Assets/nextjs-icon.webp";
+import Angular from "../Assets/angular.jpg";
 import Tailwind from "../Assets/tailwind.png";
 
 const Skills = () => {
@@ -23,6 +24,11 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img src={html} alt="A html icon" className="w-20 mx-auto" />
             <p className="my-4">HTML</p>
+          </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img src={Angular} alt="A Angular icon" className="w-20 mx-auto" />
+            <p className="my-4">Angular</p>
           </div>
 
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
